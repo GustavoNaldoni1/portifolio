@@ -1,39 +1,47 @@
-# 🐍 Projetos Básicos em Python
 
-Este repositório reúne **projetos simples em Python**, criados apenas com **sintaxe básica** (algumas vezes usando funções de bibliotecas).  
-Eles servem como prática para iniciantes e como demonstração no meu portfólio.
+```markdown
+# 🔹 Jogo Pedra, Papel e Tesoura com Socket
 
----
-
-## 📂 Lista de Projetos
-
-1. [Calculadora Simples](./01-calculadora)  
-2. [Conversor de Temperatura](./02-conversor-temperatura)  
-3. [Verificador de Palíndromos](./03-palindromo)  
-4. [Gerador de Tabuada](./04-tabuada)  
-5. [Analisador de Texto](./05-analisador-texto)  
-6. [Simulador de Dados](./06-simulador-dados)  
-7. [Lista de Compras Interativa](./07-lista-compras)  
-8. [Jogo da Adivinhação](./08-jogo-adivinhacao)  
-9. [Conversor de Moedas (simples)](./09-conversor-moedas)  
-10. [Contador de Palavras](./10-contador-palavras)  
+Um programa em Python que simula o jogo **Pedra, Papel e Tesoura** entre um cliente e um servidor.  
+O cliente envia sua jogada e o servidor responde com sua própria escolha e o resultado da partida.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Funcionalidades
 
-- Python 3 (sintaxe básica: loops, condicionais, funções, listas, strings, dicionários, arquivos e algumas funções de bibliotecas).
-
----
-
-## 🎯 Objetivo
-
-Praticar a **lógica de programação** e consolidar fundamentos da linguagem Python.  
-Cada projeto é independente, simples e fácil de executar no terminal.
+- Cliente escolhe entre **pedra | papel | tesoura**.  
+- Servidor escolhe aleatoriamente sua jogada.  
+- Resultado da partida é enviado ao cliente.  
+- Tratamento de entradas inválidas.  
 
 ---
 
-## 👨‍💻 Autor
+## 📦 Pré-requisitos
 
-- **Gustavo Naldoni Sampaio**  
-  🔗 [GitHub](https://github.com/GustavoNaldoni1)
+- **Python 3** instalado.  
+- Bibliotecas utilizadas:  
+  - `socket`  
+  - `threading`  
+  - `json`  
+  - `random`  
+  - `time`  
+
+---
+
+## ▶️ Como executar
+
+1. Clone ou baixe este diretório.  
+2. No terminal, inicie o servidor:
+
+```bash
+python server.py
+
+3. Em outro terminal, inicie o cliente:
+
+python client.py
+
+4. Digite seu nome de usuário e escolha sua jogada:
+
+Escolha entre pedra | papel | tesoura:
+
+5. O servidor responderá com sua jogada e o resultado da partida.
