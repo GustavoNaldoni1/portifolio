@@ -1,7 +1,7 @@
 # 🐍 Projetos Básicos em Python
 
-Este repositório reúne **projetos simples em Python**, criados apenas com **sintaxe básica** (algumas vezes usando funções de bibliotecas).  
-Eles servem como prática para iniciantes e como demonstração no meu portfólio.
+Este repositório reúne **projetos simples e introdutórios em Python**, desenvolvidos com **sintaxe básica** e algumas funções de bibliotecas padrão.  
+Eles foram criados para **praticar lógica de programação** e servir como demonstração no meu portfólio.
 
 ---
 
@@ -20,16 +20,23 @@ Eles servem como prática para iniciantes e como demonstração no meu portfóli
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias Utilizadas
 
-- Python 3 (sintaxe básica: loops, condicionais, funções, listas, strings, dicionários, arquivos e algumas funções de bibliotecas).
+- **Python 3**  
+- Recursos básicos da linguagem:  
+  - Estruturas de controle (loops e condicionais)  
+  - Funções  
+  - Listas, strings e dicionários  
+  - Manipulação de arquivos  
+  - Algumas funções de bibliotecas padrão  
 
 ---
 
 ## 🎯 Objetivo
 
-Praticar a **lógica de programação** e consolidar fundamentos da linguagem Python.  
-Cada projeto é independente, simples e fácil de executar no terminal.
+- Consolidar fundamentos da linguagem Python.  
+- Exercitar **lógica de programação** em pequenos projetos independentes.  
+- Criar soluções simples, fáceis de executar no terminal e úteis para aprendizado.  
 
 ---
 
