@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Conversor de temperatura
 
 Um programa em Python que converte temperaturas em celsius, kelvin e fahrenheit.
 

@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Gerador de tabuada
 
 Um programa em Python que faz tabuadas de qualquer número em arquivo.
 

@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Detector de Palíndromos
 
 Um programa em Python que verifica se frases ou palavras são palíndromos.
 

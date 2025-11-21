@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Calculadora Simples
 
 Um programa em Python que calcula operações básicas de soma, subtração, multiplicação e divisão.
 

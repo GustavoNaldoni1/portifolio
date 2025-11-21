@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Simulador de dados
 
 Um programa em Python que faz diversas operações com dados.
 

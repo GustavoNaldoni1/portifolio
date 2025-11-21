@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Analisador de texto
 
 Um programa em Python que analisa textos e conta os seus caracteres.
 

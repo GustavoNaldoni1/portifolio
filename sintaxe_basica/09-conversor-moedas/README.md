@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Conversor de moedas
 
 Um programa em Python que converte moedas.
 

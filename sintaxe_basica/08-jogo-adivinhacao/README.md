@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Jogo da adivinhação
 
 Um programa em Python de jogo de adivinhação.
 

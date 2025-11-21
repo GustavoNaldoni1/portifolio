@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Contador de palavras
 
 Um programa em Python que conta palavras e faz um relatório em arquivos.
 

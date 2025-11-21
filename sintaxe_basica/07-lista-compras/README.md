@@ -1,4 +1,4 @@
-# 🔹 Nome do Projeto
+# 🔹 Gerador de lista de compras
 
 Um programa em Python faz operações com lista de compras.
 
